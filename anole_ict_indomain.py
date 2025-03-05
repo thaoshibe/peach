@@ -42,7 +42,9 @@ if __name__ == "__main__":
         low_cpu_mem_usage=True,
         # attn_implementation="flash_attention_2" #Thao: Don't know why transformers 4.46.1 doesnt support Chameleon with this option
     ).to('cuda')
-    subjectnames = SUBJECT_NAMES[args.start:args.end]
+    # subjectnames = SUBJECT_NAMES[args.start:args.end]
+    subjectnames = os.listdir(args.input_folder)
+    subjectnames = [subjectname for subjectname in subjectnames if os.path.isdir(os.path.join(args.input_folder, subjectname))]
     if args.image_prompt:
         image_folders = [os.path.join(args.input_folder, subjectname) for subjectname in subjectnames]
     else:
