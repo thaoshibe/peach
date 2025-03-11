@@ -31,21 +31,32 @@ from ...generation import GenerationMixin
 from ...generation.configuration_utils import GenerationConfig
 from ...generation.logits_process import (
     AllowOnlyTokensAtRelativeOffsetLogitsProcessor,
-    AllowOnlyTokensInRelativeWindowLogitsProcessor, LogitsProcessorList,
+    AllowOnlyTokensInRelativeWindowLogitsProcessor,
+    LogitsProcessorList,
     SuppressTokensAtBeginLogitsProcessor,
-    SuppressTokensInIndexRangeLogitsProcessor, SuppressTokensLogitsProcessor)
+    SuppressTokensInIndexRangeLogitsProcessor,
+    SuppressTokensLogitsProcessor,
+)
 from ...generation.utils import GenerateOutput
 from ...modeling_attn_mask_utils import AttentionMaskConverter
 from ...modeling_flash_attention_utils import _flash_attention_forward
-from ...modeling_outputs import BaseModelOutputWithPast, CausalLMOutputWithPast
+from ...modeling_outputs import (
+    BaseModelOutputWithPast,
+    CausalLMOutputWithPast,
+)
 from ...modeling_utils import PreTrainedModel
 from ...pytorch_utils import ALL_LAYERNORM_LAYERS
-from ...utils import (add_code_sample_docstrings, add_start_docstrings,
-                      add_start_docstrings_to_model_forward,
-                      is_flash_attn_2_available,
-                      is_flash_attn_greater_or_equal_2_10, logging,
-                      replace_return_docstrings)
+from ...utils import (
+    add_code_sample_docstrings,
+    add_start_docstrings,
+    add_start_docstrings_to_model_forward,
+    is_flash_attn_2_available,
+    is_flash_attn_greater_or_equal_2_10,
+    logging,
+    replace_return_docstrings,
+)
 from .configuration_chameleon import ChameleonConfig, ChameleonVQVAEConfig
+
 
 if is_flash_attn_2_available():
     from flash_attn.bert_padding import index_first_axis, pad_input, unpad_input  # noqa
