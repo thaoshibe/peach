@@ -1,0 +1,2882 @@
+[
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Jeffy/Jeffy.Jeffy6.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Jeffy/Jeffy.Jeffy12.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Jeffy/Jeffy.Jeffy12.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Jeffy/Jeffy.Jeffy13.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Riley-2/Riley-2.Riley-2-8.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Riley-2/Riley-2.Riley-2-7.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Riley-2/Riley-2.Riley-2-7.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Riley-2/Riley-2.Riley-2-6.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Zeno-4/Zeno-4.Zeno-4-7.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Zeno-4/Zeno-4.Zeno-4-8.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Zeno-4/Zeno-4.Zeno-4-8.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Zeno-4/Zeno-4.Zeno-4-4.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Merlo/Merlo.Merlo.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Merlo/Merlo.Merlo4.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Merlo/Merlo.Merlo4.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Merlo/Merlo.Merlo18.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/ronja/ronja.i3becf42ab5ed46b1.jpg",
+            "/nobackup3/thao-data/data/dogs/train/ronja/ronja.i2e36d27ac0de74d8.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/ronja/ronja.i2e36d27ac0de74d8.jpg",
+            "/nobackup3/thao-data/data/dogs/train/ronja/ronja.ieca80423eeeb4e44.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/FБli/FБli.Fueli15.jpg",
+            "/nobackup3/thao-data/data/dogs/train/FБli/FБli.Fueli9.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/FБli/FБli.Fueli9.jpg",
+            "/nobackup3/thao-data/data/dogs/train/FБli/FБli.Fueli13.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/tasha/tasha.i9a1971146d36ed4c.jpg",
+            "/nobackup3/thao-data/data/dogs/train/tasha/tasha.i676a53f229da7f24.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/tasha/tasha.i676a53f229da7f24.jpg",
+            "/nobackup3/thao-data/data/dogs/train/tasha/tasha.ibab015d344e06150.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/bruno/bruno.i0a47d406c8113340.jpg",
+            "/nobackup3/thao-data/data/dogs/train/bruno/bruno.icbc56aa9bd3d033f.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/bruno/bruno.icbc56aa9bd3d033f.jpg",
+            "/nobackup3/thao-data/data/dogs/train/bruno/bruno.i80416580325b100a.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/okami/okami.idbfcbff17ee6b201.jpg",
+            "/nobackup3/thao-data/data/dogs/train/okami/okami.id1edef647b6227d5.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/okami/okami.id1edef647b6227d5.jpg",
+            "/nobackup3/thao-data/data/dogs/train/okami/okami.i9a0226409902d59b.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Baki-2_neu_Bari/Baki-2_neu_Bari.Baki-2-1.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Baki-2_neu_Bari/Baki-2_neu_Bari.Baki-2-10.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Baki-2_neu_Bari/Baki-2_neu_Bari.Baki-2-10.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Baki-2_neu_Bari/Baki-2_neu_Bari.Baki-2-3.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/B.Atis/B.Atis.B.Atis2.jpg",
+            "/nobackup3/thao-data/data/dogs/train/B.Atis/B.Atis.B.Atis13.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/B.Atis/B.Atis.B.Atis13.jpg",
+            "/nobackup3/thao-data/data/dogs/train/B.Atis/B.Atis.B.Atis5.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/koko/koko.ifacd9ce09723787f.jpg",
+            "/nobackup3/thao-data/data/dogs/train/koko/koko.i62ce1ac08f95e7ad.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/koko/koko.i62ce1ac08f95e7ad.jpg",
+            "/nobackup3/thao-data/data/dogs/train/koko/koko.i7073f849a8cd2861.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Arpi/Arpi.Arpi3.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Arpi/Arpi.Arpi11.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Arpi/Arpi.Arpi11.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Arpi/Arpi.Arpi7.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/hailey/hailey.i7bc56ca6ade02241.jpg",
+            "/nobackup3/thao-data/data/dogs/train/hailey/hailey.iefef2d0562ee55b9.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/hailey/hailey.iefef2d0562ee55b9.jpg",
+            "/nobackup3/thao-data/data/dogs/train/hailey/hailey.i5b34a852e388993a.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Nozis/Nozis.Nozis16.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Nozis/Nozis.Nozis38.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Nozis/Nozis.Nozis38.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Nozis/Nozis.Nozis3.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Lindsay/Lindsay.Lindsay1.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Lindsay/Lindsay.Lindsay24.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Lindsay/Lindsay.Lindsay24.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Lindsay/Lindsay.Lindsay18.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Szandra/Szandra.Szandra7.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Szandra/Szandra.Szandra25.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Szandra/Szandra.Szandra25.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Szandra/Szandra.Szandra23.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/akuma/akuma.iaa1f70f7b5e88397.jpg",
+            "/nobackup3/thao-data/data/dogs/train/akuma/akuma.ie19f33d0f5574786.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/akuma/akuma.ie19f33d0f5574786.jpg",
+            "/nobackup3/thao-data/data/dogs/train/akuma/akuma.iabf8822bb92bb779.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/rila/rila.id78ff29706b9b72c.jpg",
+            "/nobackup3/thao-data/data/dogs/train/rila/rila.i5af4050709ad9503.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/rila/rila.i5af4050709ad9503.jpg",
+            "/nobackup3/thao-data/data/dogs/train/rila/rila.i889d323cd09c44e6.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Clara-4/Clara-4.Clara-4-30.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Clara-4/Clara-4.Clara-4-24.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Clara-4/Clara-4.Clara-4-24.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Clara-4/Clara-4.Clara-4-32.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Hello/Hello.Hello20.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Hello/Hello.Hello10.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Hello/Hello.Hello10.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Hello/Hello.Hello14.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Kelta/Kelta.Kelta4.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Kelta/Kelta.Kelta15.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Kelta/Kelta.Kelta15.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Kelta/Kelta.Kelta16.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Ocre/Ocre.Ocre17.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Ocre/Ocre.Ocre13.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Ocre/Ocre.Ocre13.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Ocre/Ocre.Ocre9.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Anjo/Anjo.Anjo4.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Anjo/Anjo.Anjo3.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Anjo/Anjo.Anjo3.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Anjo/Anjo.Anjo1.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/shark/shark.i9ffb304225836db1.jpg",
+            "/nobackup3/thao-data/data/dogs/train/shark/shark.i5b2dfcf0f7916f4b.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/shark/shark.i5b2dfcf0f7916f4b.jpg",
+            "/nobackup3/thao-data/data/dogs/train/shark/shark.i0cd8f19fbebe9a87.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Selina/Selina.Selina2.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Selina/Selina.Selina6.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Selina/Selina.Selina6.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Selina/Selina.Selina1.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/puhcho/puhcho.if927dee92a4e429a.jpg",
+            "/nobackup3/thao-data/data/dogs/train/puhcho/puhcho.i42259508ad5ede44.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/puhcho/puhcho.i42259508ad5ede44.jpg",
+            "/nobackup3/thao-data/data/dogs/train/puhcho/puhcho.i42975a841982835e.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Peti-5/Peti-5.Peti-5-11.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Peti-5/Peti-5.Peti-5-17.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Peti-5/Peti-5.Peti-5-17.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Peti-5/Peti-5.Peti-5-18.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Gary-2/Gary-2.Gary-2-19.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Gary-2/Gary-2.Gary-2-16.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Gary-2/Gary-2.Gary-2-16.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Gary-2/Gary-2.Gary-2-22.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/B.DФmpi/B.DФmpi.B.Doempi10.jpg",
+            "/nobackup3/thao-data/data/dogs/train/B.DФmpi/B.DФmpi.B.Doempi19.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/B.DФmpi/B.DФmpi.B.Doempi19.jpg",
+            "/nobackup3/thao-data/data/dogs/train/B.DФmpi/B.DФmpi.B.Doempi17.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/balu/balu.i395fdf43aafbcca2.jpg",
+            "/nobackup3/thao-data/data/dogs/train/balu/balu.i215476947f80e7e8.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/balu/balu.i215476947f80e7e8.jpg",
+            "/nobackup3/thao-data/data/dogs/train/balu/balu.iec7bc5af779cfaed.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Diva-4/Diva-4.Diva-4-23.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Diva-4/Diva-4.Diva-4-16.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Diva-4/Diva-4.Diva-4-16.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Diva-4/Diva-4.Diva-4-11.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/bart/bart.i1569753a567703e2.jpg",
+            "/nobackup3/thao-data/data/dogs/train/bart/bart.i59a2e49afa80e487.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/bart/bart.i59a2e49afa80e487.jpg",
+            "/nobackup3/thao-data/data/dogs/train/bart/bart.i6737530346883aff.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/radko/radko.i454404c6a3dc7dac.jpg",
+            "/nobackup3/thao-data/data/dogs/train/radko/radko.i2432e0051b53216d.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/radko/radko.i2432e0051b53216d.jpg",
+            "/nobackup3/thao-data/data/dogs/train/radko/radko.i2ae6b9d0b6858b19.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/dog12/dog12.70. Geb. Claus 128 - Copie.jpg",
+            "/nobackup3/thao-data/data/dogs/train/dog12/dog12.IMG_1378.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/dog12/dog12.IMG_1378.jpg",
+            "/nobackup3/thao-data/data/dogs/train/dog12/dog12.70. Geb. Claus 130 - Copie.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Ilcsi-2/Ilcsi-2.Ilcsi-2-17.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Ilcsi-2/Ilcsi-2.Ilcsi-2-23.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Ilcsi-2/Ilcsi-2.Ilcsi-2-23.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Ilcsi-2/Ilcsi-2.Ilcsi-2-21.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/391634/391634.391634_8.jpg",
+            "/nobackup3/thao-data/data/dogs/train/391634/391634.391634_9.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/391634/391634.391634_9.jpg",
+            "/nobackup3/thao-data/data/dogs/train/391634/391634.391634_11.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/benji/benji.id58751ef76eacbe9.jpg",
+            "/nobackup3/thao-data/data/dogs/train/benji/benji.i64f46d2bfe655edf.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/benji/benji.i64f46d2bfe655edf.jpg",
+            "/nobackup3/thao-data/data/dogs/train/benji/benji.i999275e2fb6ec8e6.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Jano-3/Jano-3.Jano-3-2.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Jano-3/Jano-3.Jano-3-1.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Jano-3/Jano-3.Jano-3-1.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Jano-3/Jano-3.Jano-3-4.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/dedi/dedi.ia598edf078aad4a1.jpg",
+            "/nobackup3/thao-data/data/dogs/train/dedi/dedi.id358fde316622c41.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/dedi/dedi.id358fde316622c41.jpg",
+            "/nobackup3/thao-data/data/dogs/train/dedi/dedi.i825164f710178e12.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Csocsi/Csocsi.Csocsi19.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Csocsi/Csocsi.Csocsi21.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Csocsi/Csocsi.Csocsi21.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Csocsi/Csocsi.Csocsi5.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/dog13/dog13.DSC01572 - Copie.jpg",
+            "/nobackup3/thao-data/data/dogs/train/dog13/dog13.IMG_3779.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/dog13/dog13.IMG_3779.jpg",
+            "/nobackup3/thao-data/data/dogs/train/dog13/dog13.DSC01664.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/charlie/charlie.i487425ee0ba89843.jpg",
+            "/nobackup3/thao-data/data/dogs/train/charlie/charlie.i71f8e6dda9589aae.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/charlie/charlie.i71f8e6dda9589aae.jpg",
+            "/nobackup3/thao-data/data/dogs/train/charlie/charlie.ifbdb619a725951cd.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/sparky/sparky.ib29d09e64c97ca4a.jpg",
+            "/nobackup3/thao-data/data/dogs/train/sparky/sparky.ide70cf1d36d412a0.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/sparky/sparky.ide70cf1d36d412a0.jpg",
+            "/nobackup3/thao-data/data/dogs/train/sparky/sparky.i05eb05cb574f2785.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Lacko/Lacko.Lacko8.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Lacko/Lacko.Lacko10.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Lacko/Lacko.Lacko10.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Lacko/Lacko.Lacko12.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Wenda/Wenda.Wenda12.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Wenda/Wenda.Wenda2..jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Wenda/Wenda.Wenda2..jpg",
+            "/nobackup3/thao-data/data/dogs/train/Wenda/Wenda.Wenda11.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Katus/Katus.Katus3.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Katus/Katus.Katus-1.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Katus/Katus.Katus-1.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Katus/Katus.Katus5.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/maxi/maxi.iab997d61fe51ec73.jpg",
+            "/nobackup3/thao-data/data/dogs/train/maxi/maxi.i13965126d4e316c6.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/maxi/maxi.i13965126d4e316c6.jpg",
+            "/nobackup3/thao-data/data/dogs/train/maxi/maxi.i18dd190883d5fe18.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/dog10/dog10.IMGP1056.jpg",
+            "/nobackup3/thao-data/data/dogs/train/dog10/dog10.IMG_1304.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/dog10/dog10.IMG_1304.jpg",
+            "/nobackup3/thao-data/data/dogs/train/dog10/dog10.DSC_0182.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Burgi/Burgi.Burgi22.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Burgi/Burgi.Burgi29.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Burgi/Burgi.Burgi29.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Burgi/Burgi.Burgi20.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Enzo-2/Enzo-2.Enzo-2-23.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Enzo-2/Enzo-2.Enzo-2-9.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Enzo-2/Enzo-2.Enzo-2-9.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Enzo-2/Enzo-2.Enzo-2-17.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Morris-2/Morris-2.Morris-2-10.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Morris-2/Morris-2.Morris-2-21.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Morris-2/Morris-2.Morris-2-21.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Morris-2/Morris-2.Morris-2-20.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/scissors/scissors.i1d05d7e3a2cf60b6.jpg",
+            "/nobackup3/thao-data/data/dogs/train/scissors/scissors.iaeccda57bd2f87dc.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/scissors/scissors.iaeccda57bd2f87dc.jpg",
+            "/nobackup3/thao-data/data/dogs/train/scissors/scissors.ife45bb0537953ba6.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/carla/carla.ib948c9b5bd8b5643.jpg",
+            "/nobackup3/thao-data/data/dogs/train/carla/carla.i174896ec71872153.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/carla/carla.i174896ec71872153.jpg",
+            "/nobackup3/thao-data/data/dogs/train/carla/carla.i0fd40141de414e0f.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Mokka/Mokka.Mokka6.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Mokka/Mokka.Mokka1.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Mokka/Mokka.Mokka1.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Mokka/Mokka.Mokka13.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/dog11/dog11.70. Geb. Claus 128.jpg",
+            "/nobackup3/thao-data/data/dogs/train/dog11/dog11.70. Geb. Claus 093.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/dog11/dog11.70. Geb. Claus 093.jpg",
+            "/nobackup3/thao-data/data/dogs/train/dog11/dog11.2013-06-25 15.15.01.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/drebcho/drebcho.i4cc536bb5082241a.jpg",
+            "/nobackup3/thao-data/data/dogs/train/drebcho/drebcho.ia35585328a03b59f.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/drebcho/drebcho.ia35585328a03b59f.jpg",
+            "/nobackup3/thao-data/data/dogs/train/drebcho/drebcho.i84d818cd95ecb26a.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/kolya/kolya.i86a3862cc4776b3d.jpg",
+            "/nobackup3/thao-data/data/dogs/train/kolya/kolya.ia1e5abf6b475dcbf.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/kolya/kolya.ia1e5abf6b475dcbf.jpg",
+            "/nobackup3/thao-data/data/dogs/train/kolya/kolya.i6b99b2d97dff2367.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Amazon-2/Amazon-2.Amazon-2-6.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Amazon-2/Amazon-2.Amazon-2-25.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Amazon-2/Amazon-2.Amazon-2-25.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Amazon-2/Amazon-2.Amazon-2-16.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/dog8/dog8.2011november 028.jpg",
+            "/nobackup3/thao-data/data/dogs/train/dog8/dog8.P1010266.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/dog8/dog8.P1010266.jpg",
+            "/nobackup3/thao-data/data/dogs/train/dog8/dog8.DSC01868.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Balu-3/Balu-3.Balu-3-7.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Balu-3/Balu-3.Balu-3-24.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Balu-3/Balu-3.Balu-3-24.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Balu-3/Balu-3.Balu-3-3.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Zeller/Zeller.Zeller27.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Zeller/Zeller.Zeller24.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Zeller/Zeller.Zeller24.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Zeller/Zeller.Zeller14.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/boris/boris.i02b1a8d6fead2f66.jpg",
+            "/nobackup3/thao-data/data/dogs/train/boris/boris.i9c8995872416d0a3.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/boris/boris.i9c8995872416d0a3.jpg",
+            "/nobackup3/thao-data/data/dogs/train/boris/boris.i72b118eb70b7257b.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/barry/barry.ib4e82adf4e1d1ffe.jpg",
+            "/nobackup3/thao-data/data/dogs/train/barry/barry.i8dd9de20f3b81201.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/barry/barry.i8dd9de20f3b81201.jpg",
+            "/nobackup3/thao-data/data/dogs/train/barry/barry.i2a3b4ecf587d15da.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/dog9/dog9.P1000155.jpg",
+            "/nobackup3/thao-data/data/dogs/train/dog9/dog9.DSC01863.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/dog9/dog9.DSC01863.jpg",
+            "/nobackup3/thao-data/data/dogs/train/dog9/dog9.DSC01673.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Yana/Yana.Yana15.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Yana/Yana.Yana4.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Yana/Yana.Yana4.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Yana/Yana.Yana3.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Cukis/Cukis.Cukis18.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Cukis/Cukis.Cukis27.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Cukis/Cukis.Cukis27.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Cukis/Cukis.Cukis17.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Soma/Soma.Soma22.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Soma/Soma.Soma26.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Soma/Soma.Soma26.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Soma/Soma.Soma18.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Maneti/Maneti.Maneti1.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Maneti/Maneti.Maneti4.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Maneti/Maneti.Maneti4.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Maneti/Maneti.Maneti27.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Orujo/Orujo.Orujo5.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Orujo/Orujo.Orujo11.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Orujo/Orujo.Orujo11.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Orujo/Orujo.Orujo10.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Mario-7/Mario-7.Mario-7-15.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Mario-7/Mario-7.Mario-7-10.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Mario-7/Mario-7.Mario-7-10.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Mario-7/Mario-7.Mario-7-20.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Yuri/Yuri.Yuri8.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Yuri/Yuri.Yuri5.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Yuri/Yuri.Yuri5.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Yuri/Yuri.Yuri6.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Kismacko/Kismacko.Kismacko11.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Kismacko/Kismacko.Kismacko21..jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Kismacko/Kismacko.Kismacko21..jpg",
+            "/nobackup3/thao-data/data/dogs/train/Kismacko/Kismacko.Kismacko12.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Mono-2/Mono-2.Mono-2-18.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Mono-2/Mono-2.Mono-2-19.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Mono-2/Mono-2.Mono-2-19.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Mono-2/Mono-2.Mono-2-1.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/omi-babi/omi-babi.ieab4026135ef80fa.jpg",
+            "/nobackup3/thao-data/data/dogs/train/omi-babi/omi-babi.i616f854f02913c4a.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/omi-babi/omi-babi.i616f854f02913c4a.jpg",
+            "/nobackup3/thao-data/data/dogs/train/omi-babi/omi-babi.i77067fe910bcd0a7.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Summer/Summer.Summer1.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Summer/Summer.Summer6.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Summer/Summer.Summer6.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Summer/Summer.Summer7.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Barokk/Barokk.Barokk2.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Barokk/Barokk.Barokk1.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Barokk/Barokk.Barokk1.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Barokk/Barokk.Barokk3.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/vivaldi/vivaldi.i8c68e6f5ccf9ca53.jpg",
+            "/nobackup3/thao-data/data/dogs/train/vivaldi/vivaldi.i6493852ef2d4f3c7.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/vivaldi/vivaldi.i6493852ef2d4f3c7.jpg",
+            "/nobackup3/thao-data/data/dogs/train/vivaldi/vivaldi.i7ce04cc9a869966d.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Oasis/Oasis.Oasis9.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Oasis/Oasis.Oasis5.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Oasis/Oasis.Oasis5.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Oasis/Oasis.Oasis12.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Jet-2/Jet-2.Jet-2-7.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Jet-2/Jet-2.Jet-2-14.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    },
+    {
+        "image":
+        [
+            "/nobackup3/thao-data/data/dogs/train/Jet-2/Jet-2.Jet-2-14.jpg",
+            "/nobackup3/thao-data/data/dogs/train/Jet-2/Jet-2.Jet-2-12.jpg"
+        ],
+        "conversations":
+        [
+            {
+                "from": "human",
+                "value": "<image><TASK_PROMPT>"
+            },
+            {
+                "from": "bot",
+                "value": "<image>"
+            }
+        ]
+    }
+]
