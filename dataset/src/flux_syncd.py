@@ -5,20 +5,16 @@ from typing import Any, Callable, Dict, List, Optional, Union
 
 import numpy as np
 import torch
-from diffusers import AutoencoderKL, FlowMatchEulerDiscreteScheduler, FluxPipeline
+from diffusers import (AutoencoderKL, FlowMatchEulerDiscreteScheduler,
+                       FluxPipeline)
 from diffusers.models.transformers import FluxTransformer2DModel
 from diffusers.pipelines.flux.pipeline_flux_controlnet import *
 from diffusers.pipelines.flux.pipeline_output import FluxPipelineOutput
 from diffusers.utils import is_torch_xla_available
 from diffusers.utils.torch_utils import randn_tensor
-from transformers import (
-    CLIPImageProcessor,
-    CLIPTextModel,
-    CLIPTokenizer,
-    CLIPVisionModelWithProjection,
-    T5EncoderModel,
-    T5TokenizerFast,
-)
+from transformers import (CLIPImageProcessor, CLIPTextModel, CLIPTokenizer,
+                          CLIPVisionModelWithProjection, T5EncoderModel,
+                          T5TokenizerFast)
 
 if is_torch_xla_available():
     import torch_xla.core.xla_model as xm

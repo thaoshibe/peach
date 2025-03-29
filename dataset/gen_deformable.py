@@ -4,12 +4,14 @@ import os
 
 import numpy as np
 import torch
+# from diffusers import FluxPipeline
 from lightning.pytorch import seed_everything
 from PIL import Image
 from src.editor import AttentionStore, SharedAttnProc
 from src.flux_syncd import FluxCustomPipeline
-from tqdm import tqdm
 from transformers import T5Tokenizer
+
+os.environ['PYTORCH_CUDA_ALLOC_CONF'] = 'expandable_segments:True'
 
 tokenizer = T5Tokenizer.from_pretrained("google/t5-v1_1-xxl")
 WIDTH = HEIGHT = 1024
@@ -43,9 +45,18 @@ def run_dataset_gen(categories, outdir='./', inference_step=50, prompt_file=None
     os.makedirs(outdir, exist_ok=True)
     os.makedirs(f'{outdir}/masks', exist_ok=True)
 
-    pipe = FluxCustomPipeline.from_pretrained('black-forest-labs/FLUX.1-dev', num=NUM, torch_dtype=torch_dtype).to("cuda")
+    pipe = FluxCustomPipeline.from_pretrained('black-forest-labs/FLUX.1-dev',
+        num=NUM,
+        torch_dtype=torch_dtype,
+        use_safetensors=True,
+        # device_map="balanced"
+        )#.to("cuda")
     seed_everything(seed)
-
+    # Memory optimizations
+    torch.cuda.empty_cache()
+    pipe.enable_attention_slicing()
+    pipe.enable_sequential_cpu_offload()
+    
     attn_procs = dict()
     for name, attn_proc in pipe.transformer.attn_processors.items():
         if name.startswith("single_transformer_blocks"):
@@ -63,17 +74,18 @@ def run_dataset_gen(categories, outdir='./', inference_step=50, prompt_file=None
     llama_gen_prompts = torch.load(prompt_file)
     llama_gen_desc_prompts = torch.load(desc_prompt_file)
 
-    for _, cat_ in tqdm(enumerate(categories)):
+    for _, cat_ in enumerate(categories):
         prompts = llama_gen_prompts[cat_]
+        breakpoint()
         prompts = [[prompts[i+x] for x in range(NUM)] for i in np.arange(0, len(prompts)-NUM, NUM)]
         promptsdesc = llama_gen_desc_prompts[cat_]
 
         for numdesc, desc in enumerate(promptsdesc):
             for num_sample, prompt in enumerate(prompts):
                 token_indices = get_token_indices([cat_] + prompt)
-
+                
                 editor = AttentionStore(token_indices=token_indices, num_att_layers=57, WIDTH=WIDTH)
-
+                
                 with torch.no_grad():
                     model_output_old = pipe(
                         [f'{x}. {desc}. wide angle shot' for x in prompt],
